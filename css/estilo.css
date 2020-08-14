@@ -1,0 +1,46 @@
+h1{
+	color:#930;
+}
+.menu {
+	list-style:none;
+    padding: 0;
+    background: #666;
+    width: 90%;	
+    max-width: 1000px;
+    margin:auto;
+	
+}
+
+.menu li a{
+	text-decoration:none;
+	color:#C33;
+ 	padding: 20px;
+	display:block;
+		
+}
+
+.menu li{
+	display:inline-block;
+	text-align:center;	
+}
+
+.menu li a:hover{
+	background:#FFF;
+}
+p{
+	color:#930;
+	display:inline-block;
+	margin:3em;
+	border:0px solid #000;
+	font-family:"Comic Sans MS";
+    font-size:18px;
+}
+
+
+
+
+ 
+
+body{
+    background-color:#CCC;
+}
